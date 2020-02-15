@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Catty/static/css/main.3832e726.chunk.css",
+    "main.js": "/Catty/static/js/main.98dcc6de.chunk.js",
+    "main.js.map": "/Catty/static/js/main.98dcc6de.chunk.js.map",
+    "runtime-main.js": "/Catty/static/js/runtime-main.b32f55a3.js",
+    "runtime-main.js.map": "/Catty/static/js/runtime-main.b32f55a3.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Catty/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ed51ba71.chunk.js": "/Catty/static/js/2.ed51ba71.chunk.js",
+    "static/js/2.ed51ba71.chunk.js.map": "/Catty/static/js/2.ed51ba71.chunk.js.map",
+    "index.html": "/Catty/index.html",
+    "precache-manifest.a1a771ab23ae2a4f5c3c452db46f67a1.js": "/Catty/precache-manifest.a1a771ab23ae2a4f5c3c452db46f67a1.js",
+    "service-worker.js": "/Catty/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Catty/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3832e726.chunk.css.map": "/Catty/static/css/main.3832e726.chunk.css.map",
+    "static/js/2.ed51ba71.chunk.js.LICENSE.txt": "/Catty/static/js/2.ed51ba71.chunk.js.LICENSE.txt",
+    "static/media/animatedLoader.gif": "/Catty/static/media/animatedLoader.680d0347.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b32f55a3.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ed51ba71.chunk.js",
+    "static/css/main.3832e726.chunk.css",
+    "static/js/main.98dcc6de.chunk.js"
+  ]
+}
